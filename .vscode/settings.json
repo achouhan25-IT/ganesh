@@ -41,5 +41,6 @@
         "commandCenter.inactiveForeground": "#ECECF099",
         "commandCenter.border": "#ECECF04d",
         "__omnify": "heatblast:balanced"
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
